@@ -20,10 +20,7 @@ export default defineConfig([
       globals: globals.browser,
     },
     rules: {
-      "react-refresh/only-export-components": [
-        "warn",
-        { allowConstantExport: true },
-      ],
+      "react-refresh/only-export-components": 0, // 禁用 React Fast Refresh 警告
       "react-hooks/exhaustive-deps": 0,
       "@typescript-eslint/no-explicit-any": 0,
       "no-async-promise-executor": 0,
