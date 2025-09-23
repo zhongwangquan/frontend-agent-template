@@ -25,6 +25,8 @@ export default defineConfig([
       "@typescript-eslint/no-explicit-any": 0,
       "no-async-promise-executor": 0,
       "no-extra-semi": 0,
+      "no-extra-boolean-cast": "off",
+      "@typescript-eslint/no-unused-vars": 0,
     },
   },
 ]);
