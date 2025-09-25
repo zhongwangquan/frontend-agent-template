@@ -1,0 +1,352 @@
+{
+  "images": [
+    {
+      "filename": "Apple_Apples-end-to-end-workflow-and-pro-lineup-support-RUAN-Xiangbo-in-recording-and-Spatial-Audio-mixing_inline.jpg.small_2x.jpg",
+      "path": "artist/Apple_Apples-end-to-end-workflow-and-pro-lineup-support-RUAN-Xiangbo-in-recording-and-Spatial-Audio-mixing_inline.jpg.small_2x.jpg",
+      "category": "artist",
+      "type": "professional_photo",
+      "tags": [
+        "音乐制作",
+        "空间音频",
+        "录音工程",
+        "专业设备",
+        "音频混音",
+        "工作流程",
+        "音乐技术",
+        "创作过程",
+        "RUAN-Xiangbo",
+        "艺术家肖像"
+      ],
+      "description": "音乐艺术家RUAN Xiangbo在录音室进行空间音频混音工作的专业照片，展示了端到端的音乐制作工作流程和专业设备支持",
+      "people": ["RUAN Xiangbo"],
+      "style": "专业摄影",
+      "color_scheme": "暖色调",
+      "theme": "音乐制作技术",
+      "features": {
+        "setting": "录音室",
+        "equipment": "专业音频设备",
+        "activity": "空间音频混音",
+        "mood": "专注工作"
+      }
+    },
+    {
+      "filename": "Apple_From-left-to-right-WANG-Wenwei-WANG-Lu-LU-Qiming-and-RUAN-Xiangbo_inline.jpg.small_2x.jpg",
+      "path": "artist/Apple_From-left-to-right-WANG-Wenwei-WANG-Lu-LU-Qiming-and-RUAN-Xiangbo_inline.jpg.small_2x.jpg",
+      "category": "artist",
+      "type": "group_photo",
+      "tags": [
+        "音乐团队",
+        "艺术家合影",
+        "创作团队",
+        "音乐合作",
+        "团队肖像",
+        "音乐制作人",
+        "创意工作者",
+        "专业摄影",
+        "团队协作",
+        "音乐项目"
+      ],
+      "description": "从左到右依次为WANG Wenwei、WANG Lu、LU Qiming和RUAN Xiangbo的音乐艺术家团队合影",
+      "people": ["WANG Wenwei", "WANG Lu", "LU Qiming", "RUAN Xiangbo"],
+      "style": "团队肖像摄影",
+      "color_scheme": "自然色调",
+      "theme": "音乐团队协作",
+      "features": {
+        "setting": "室内环境",
+        "composition": "四人横向排列",
+        "activity": "团队合影",
+        "mood": "专业友好"
+      }
+    },
+    {
+      "filename": "Apple_LU-Qiming-guides-the-recording-with-verbal-cues-centered-on-Focus-and-Sleep_inline.jpg.small_2x.jpg",
+      "path": "artist/Apple_LU-Qiming-guides-the-recording-with-verbal-cues-centered-on-Focus-and-Sleep_inline.jpg.small_2x.jpg",
+      "category": "artist",
+      "type": "action_photo",
+      "tags": [
+        "录音指导",
+        "语音提示",
+        "专注冥想",
+        "睡眠音乐",
+        "音乐治疗",
+        "录音过程",
+        "LU-Qiming",
+        "音乐制作",
+        "健康音乐",
+        "指导工作"
+      ],
+      "description": "LU Qiming在录音过程中通过语音提示进行指导，专注于制作与专注力和睡眠相关的音乐内容",
+      "people": ["LU Qiming"],
+      "style": "工作纪实摄影",
+      "color_scheme": "柔和色调",
+      "theme": "音乐治疗录制",
+      "features": {
+        "setting": "录音环境",
+        "equipment": "录音设备",
+        "activity": "录音指导",
+        "mood": "专注平静"
+      }
+    },
+    {
+      "filename": "Apple_LU-Qiming-has-practiced-and-shared-singing-bowl-therapy-for-fifteen-years-integrating-his-knowledge-into-musical-experiments-to-expand-the-therapeutic-experience_inline.jpg.small_2x.jpg",
+      "path": "artist/Apple_LU-Qiming-has-practiced-and-shared-singing-bowl-therapy-for-fifteen-years-integrating-his-knowledge-into-musical-experiments-to-expand-the-therapeutic-experience_inline.jpg.small_2x.jpg",
+      "category": "artist",
+      "type": "therapeutic_photo",
+      "tags": [
+        "颂钵治疗",
+        "音乐治疗",
+        "十五年经验",
+        "治疗体验",
+        "音乐实验",
+        "传统疗法",
+        "身心健康",
+        "LU-Qiming",
+        "专业治疗师",
+        "音乐疗愈"
+      ],
+      "description": "LU Qiming从事颂钵治疗十五年，将其专业知识融入音乐实验中，以扩展治疗体验的专业照片",
+      "people": ["LU Qiming"],
+      "style": "肖像摄影",
+      "color_scheme": "温暖色调",
+      "theme": "音乐治疗专业",
+      "features": {
+        "setting": "治疗环境",
+        "equipment": "颂钵等治疗工具",
+        "activity": "治疗实践",
+        "mood": "平和专业"
+      }
+    },
+    {
+      "filename": "Apple_WANG-Lu-left-and-RUAN-Xiangbo-right-capture-natural-sounds-in-the-field_inline.jpg.small_2x.jpg",
+      "path": "artist/Apple_WANG-Lu-left-and-RUAN-Xiangbo-right-capture-natural-sounds-in-the-field_inline.jpg.small_2x.jpg",
+      "category": "artist",
+      "type": "field_recording_photo",
+      "tags": [
+        "野外录音",
+        "自然声音",
+        "实地采集",
+        "音频录制",
+        "环境音乐",
+        "WANG-Lu",
+        "RUAN-Xiangbo",
+        "音乐创作",
+        "自然环境",
+        "声音艺术"
+      ],
+      "description": "WANG Lu（左）和RUAN Xiangbo（右）在野外进行自然声音采集的工作照片",
+      "people": ["WANG Lu", "RUAN Xiangbo"],
+      "style": "纪实摄影",
+      "color_scheme": "自然色调",
+      "theme": "野外音频采集",
+      "features": {
+        "setting": "户外自然环境",
+        "equipment": "便携录音设备",
+        "activity": "声音采集",
+        "mood": "专业认真"
+      }
+    },
+    {
+      "filename": "Apple_WANG-Lu-working-in-his-studio-in-Beijing_Full-Bleed-Image.jpg.small_2x.jpg",
+      "path": "artist/Apple_WANG-Lu-working-in-his-studio-in-Beijing_Full-Bleed-Image.jpg.small_2x.jpg",
+      "category": "artist",
+      "type": "studio_photo",
+      "tags": [
+        "工作室",
+        "北京",
+        "音乐制作",
+        "创作环境",
+        "WANG-Lu",
+        "音乐工作者",
+        "专业设备",
+        "创作过程",
+        "音乐技术",
+        "艺术家工作室"
+      ],
+      "description": "WANG Lu在其位于北京的工作室中进行音乐创作工作的全景照片",
+      "people": ["WANG Lu"],
+      "style": "工作室摄影",
+      "color_scheme": "现代色调",
+      "theme": "音乐创作工作室",
+      "features": {
+        "setting": "北京工作室",
+        "equipment": "专业音乐设备",
+        "activity": "音乐制作",
+        "mood": "专注创作"
+      }
+    },
+    {
+      "filename": "Apple-Swift-Student-Challenge-winners-Luciana-Ortiz-Nolasco_inline.jpg.large.jpg",
+      "path": "winner/Apple-Swift-Student-Challenge-winners-Luciana-Ortiz-Nolasco_inline.jpg.large.jpg",
+      "category": "winner",
+      "type": "portrait_photo",
+      "tags": [
+        "Apple Swift学生挑战赛",
+        "获奖者",
+        "Luciana Ortiz Nolasco",
+        "学生开发者",
+        "编程竞赛",
+        "技术教育",
+        "年轻开发者",
+        "Swift编程",
+        "教育成就",
+        "个人肖像"
+      ],
+      "description": "Apple Swift学生挑战赛获奖者Luciana Ortiz Nolasco的个人肖像照片",
+      "people": ["Luciana Ortiz Nolasco"],
+      "style": "现代肖像摄影",
+      "color_scheme": "鲜艳色彩",
+      "theme": "技术教育成就",
+      "features": {
+        "setting": "彩色抽象背景",
+        "composition": "个人肖像",
+        "activity": "获奖者展示",
+        "mood": "自信积极"
+      }
+    },
+    {
+      "filename": "Apple-Swift-Student-Challenge-winners-Marina-Lee_inline.jpg.large.jpg",
+      "path": "winner/Apple-Swift-Student-Challenge-winners-Marina-Lee_inline.jpg.large.jpg",
+      "category": "winner",
+      "type": "portrait_photo",
+      "tags": [
+        "Apple Swift学生挑战赛",
+        "获奖者",
+        "Marina Lee",
+        "学生开发者",
+        "编程竞赛",
+        "技术教育",
+        "年轻开发者",
+        "Swift编程",
+        "教育成就",
+        "个人肖像"
+      ],
+      "description": "Apple Swift学生挑战赛获奖者Marina Lee的个人肖像照片",
+      "people": ["Marina Lee"],
+      "style": "现代肖像摄影",
+      "color_scheme": "鲜艳色彩",
+      "theme": "技术教育成就",
+      "features": {
+        "setting": "彩色抽象背景",
+        "composition": "个人肖像",
+        "activity": "获奖者展示",
+        "mood": "自信积极"
+      }
+    },
+    {
+      "filename": "Apple-Swift-Student-Challenge-winners-Nahom-Worku_inline.jpg.large.jpg",
+      "path": "winner/Apple-Swift-Student-Challenge-winners-Nahom-Worku_inline.jpg.large.jpg",
+      "category": "winner",
+      "type": "portrait_photo",
+      "tags": [
+        "Apple Swift学生挑战赛",
+        "获奖者",
+        "Nahom Worku",
+        "学生开发者",
+        "编程竞赛",
+        "技术教育",
+        "年轻开发者",
+        "Swift编程",
+        "教育成就",
+        "个人肖像"
+      ],
+      "description": "Apple Swift学生挑战赛获奖者Nahom Worku的个人肖像照片",
+      "people": ["Nahom Worku"],
+      "style": "现代肖像摄影",
+      "color_scheme": "鲜艳色彩",
+      "theme": "技术教育成就",
+      "features": {
+        "setting": "彩色抽象背景",
+        "composition": "个人肖像",
+        "activity": "获奖者展示",
+        "mood": "自信积极"
+      }
+    },
+    {
+      "filename": "Apple-Swift-Student-Challenge-winners-Taiki-Hamamoto_inline.jpg.large.jpg",
+      "path": "winner/Apple-Swift-Student-Challenge-winners-Taiki-Hamamoto_inline.jpg.large.jpg",
+      "category": "winner",
+      "type": "portrait_photo",
+      "tags": [
+        "Apple Swift学生挑战赛",
+        "获奖者",
+        "Taiki Hamamoto",
+        "学生开发者",
+        "编程竞赛",
+        "技术教育",
+        "年轻开发者",
+        "Swift编程",
+        "教育成就",
+        "个人肖像"
+      ],
+      "description": "Apple Swift学生挑战赛获奖者Taiki Hamamoto的个人肖像照片",
+      "people": ["Taiki Hamamoto"],
+      "style": "现代肖像摄影",
+      "color_scheme": "鲜艳色彩",
+      "theme": "技术教育成就",
+      "features": {
+        "setting": "彩色抽象背景",
+        "composition": "个人肖像",
+        "activity": "获奖者展示",
+        "mood": "自信积极"
+      }
+    },
+    {
+      "filename": "Apple-Swift-Student-Challenge-winners-group-shot_big.jpg.large.jpg",
+      "path": "winner/Apple-Swift-Student-Challenge-winners-group-shot_big.jpg.large.jpg",
+      "category": "winner",
+      "type": "group_photo",
+      "tags": [
+        "Apple Swift学生挑战赛",
+        "获奖者合影",
+        "学生开发者团队",
+        "编程竞赛",
+        "技术教育",
+        "年轻开发者",
+        "Swift编程",
+        "教育成就",
+        "团队合影",
+        "集体庆祝"
+      ],
+      "description": "Apple Swift学生挑战赛获奖者们的集体合影照片",
+      "people": [
+        "Luciana Ortiz Nolasco",
+        "Marina Lee",
+        "Nahom Worku",
+        "Taiki Hamamoto"
+      ],
+      "style": "团队合影摄影",
+      "color_scheme": "鲜艳色彩",
+      "theme": "技术教育成就庆祝",
+      "features": {
+        "setting": "彩色抽象背景",
+        "composition": "四人团队合影",
+        "activity": "获奖庆祝",
+        "mood": "欢乐庆祝"
+      }
+    }
+  ],
+  "metadata": {
+    "total_images": 11,
+    "categories": {
+      "artist": 6,
+      "winner": 5
+    },
+    "creation_date": "2024-01-25",
+    "common_tags": [
+      "专业摄影",
+      "Apple",
+      "音乐制作",
+      "技术教育",
+      "创作过程",
+      "艺术家",
+      "学生开发者"
+    ],
+    "style_notes": "包含音乐艺术家工作照片和Apple Swift学生挑战赛获奖者肖像照片两个主要类别",
+    "usage_suggestions": [
+      "可用于音乐制作相关的文章和宣传材料",
+      "适合技术教育和编程学习相关的内容展示",
+      "可作为专业摄影作品集的参考",
+      "适用于展示创作过程和团队协作的场景"
+    ]
+  }
+}
